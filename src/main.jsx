@@ -304,7 +304,7 @@ function Highlights() {
       <div className="container">
         <SectionHeading
           eyebrow="Highlights"
-          title="Impact signals recruiters can understand in seconds"
+          title="Career highlights with measurable product impact"
           intro="The profile centers on scale, measurable performance, production stability, and technical leadership."
         />
         <div className="impact-grid">
@@ -330,7 +330,7 @@ function Projects() {
       <div className="container">
         <SectionHeading
           eyebrow="Projects"
-          title="Selected work showcase"
+          title="High-scale Android projects"
           intro="Major commerce products where architecture, reliability, and delivery discipline mattered every release."
         />
         <div className="project-grid">
@@ -373,7 +373,7 @@ function Contact() {
         <div>
           <SectionHeading
             eyebrow="Contact"
-            title="Ready for senior Android architecture conversations"
+            title="Let's discuss Android architecture, scale, and leadership"
             intro="Best fit: Android Architect, Senior Android Engineer, Technical Lead, or mobile platform roles focused on scale and reliability."
           />
           <div className="contact-actions">
